@@ -1,3 +1,6 @@
+##
+AUCHTUNG! ADDON EXTREMELY BUGGLY. IT CAN BREAK ANYTHING
+
 # Extension-Blip
 Add-on: animate the text of character messages with variable speed and play sound along the animation.
 Documentation: https://docs.sillytavern.app/extras/extensions/blip/#blip
