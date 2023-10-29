@@ -1,5 +1,5 @@
 ##
-AUCHTUNG! ADDON EXTREMELY BUGGLY. IT CAN BREAK ANYTHING
+AUCHTUNG! ADDON EXTREMELY BUGGLY. IT CAN BREAK ANYTHING. Literally anything. even your parrents marrige
 
 # Extension-Blip
 Add-on: animate the text of character messages with variable speed and play sound along the animation.
